@@ -1,0 +1,13 @@
+docs/routes/reviews_update.md
+docs/routes/reviews_destroy.md
+docs/routes/theaters_list.md
+docs/routes/movies_read.md
+docs/tables/theaters.md
+test/routes/movies.test.js
+docs/tables/critics.md
+docs/tables/reviews.md
+test/routes/reviews.test.js
+docs/tables/movies.md
+docs/routes/movies_list.md
+docs/tables/movies_theaters.md
+test/routes/theaters.test.js
